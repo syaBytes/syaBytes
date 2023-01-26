@@ -1,3 +1,3 @@
 # syaBytes
-## [https://syabytes.vercel.app/](https://syabytes.vercel.app/)
+## [Website Link](https://syabytes.vercel.app/)
 © 2023 syaBytes
